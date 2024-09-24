@@ -1,0 +1,40 @@
+body{
+    padding: 0;
+    margin: 0;
+    font-family: "Outfit", sans-serif;
+
+}
+.container{
+    background-color: lightblue;
+    height: 100vh;    
+    padding: 10%;
+
+}
+.card{
+    background-color: white;
+    text-align: center;
+    width: 350px;
+    height: 550px;
+    margin: auto;
+    border-radius: 5%;
+}
+.qr-img{
+    border-radius: 5%;
+    width: 320px;
+    margin-top: 10px;
+   
+
+}
+
+.big-text{
+    margin-left: 20px;
+    margin-right: 20px;
+    font-weight: 700;
+    font-size: 1.5rem;
+}
+.small-text{
+    margin: 0 30px 0 30px;
+    color: grey;
+    font-weight: 400;
+    font-size: 16px;
+}
